@@ -165,7 +165,7 @@
  /* home section styling */
  .home{
      display: flex;
-     background: url("images/img.jpg") no-repeat;
+     background: url("Images/img.jpg") no-repeat;
      opacity: 0.8;
      
      height: 100vh;
